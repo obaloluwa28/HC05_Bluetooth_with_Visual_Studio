@@ -1,0 +1,9 @@
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\ArduinoBluetooth.exe.config
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\ArduinoBluetooth.exe
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\ArduinoBluetooth.pdb
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.csprojResolveAssemblyReference.cache
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.ArduinoBluetoothForm.resources
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.Properties.Resources.resources
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.csproj.GenerateResource.Cache
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.exe
+c:\users\king\documents\visual studio 2015\Projects\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.pdb
